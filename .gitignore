@@ -1,0 +1,11 @@
+.env
+.ipynb_checkpoints/
+.DS_Store
+.cache
+.mplconfig/
+lastfm_artist_tags_cache.json
+lastfm_artist_tags_cache.json.tmp
+__pycache__/
+.venv/
+__pycache__/
+watch-history.json
